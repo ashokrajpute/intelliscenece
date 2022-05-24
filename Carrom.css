@@ -1,0 +1,52 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: #62374e;
+}
+.outerbox{
+ background-color: yellow;
+  display:flex;
+  justify-content: space-evenly;
+  width:50vw;
+  height:50vh;
+  
+}
+.innerbox1{
+  background-color: rgb(235, 192, 91);
+  width:10rem;
+  height:10rem;
+  margin-top:1rem;
+  padding-left:1rem;
+ 
+  border:3rem;
+}
+.innerbox2{
+    background-color:rgb(235, 192, 91); 
+    width:10rem;
+  height:10rem;
+  padding-right:1rem;
+  margin-top:1rem;
+  
+  border:3rem;
+ 
+}
+.innerbox3{
+    background-color:rgb(235, 192, 91);
+    width:10rem;
+    height:10rem;
+    padding-top:10rem;
+    padding-left:1rem;
+   
+    border:3rem;
+  }
+  .innerbox4{
+      background-color:rgb(235, 192, 91); 
+      width:10rem;
+    height:10rem;
+    padding-right:1rem;
+    padding-top:10rem;
+    
+    border:3rem;
+   
+  }
+/* Colors Used: #62374e #fdc57b */

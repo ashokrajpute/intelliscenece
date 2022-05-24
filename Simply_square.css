@@ -1,0 +1,17 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #5d3a3a;
+}
+.outer{
+ width:20rem;
+ height:20rem;
+background-color: brown;
+}
+.inner{
+    width:10rem;
+    height:10rem;
+   background-color: rgb(191, 222, 191);  
+}
+
+/* Colors Used: #5d3a3a #b5e0ba */
